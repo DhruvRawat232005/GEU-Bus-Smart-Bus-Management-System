@@ -1,4 +1,4 @@
-# GEU Bus Route Management System
+# GEU-BUS - Smart Bus Management System
 
 A comprehensive real-time bus tracking and management system for Graphic Era University.
 
@@ -56,9 +56,9 @@ npm start
 
 ## Key Features
 
-✅ Real-time GPS tracking
-✅ Duplicate boarding prevention
-✅ 45-minute countdown timer
-✅ Live monitoring dashboard
-✅ Smart notifications
-✅ Full CRUD operations
+- Real-time GPS tracking
+- Duplicate boarding prevention
+- 45-minute countdown timer
+- Live monitoring dashboard
+- Smart notifications
+- Full CRUD operations
